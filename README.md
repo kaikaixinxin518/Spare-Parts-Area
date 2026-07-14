@@ -1,1 +1,1 @@
-# odoo19-cloud-test、
+# odoo19-cloud-test
